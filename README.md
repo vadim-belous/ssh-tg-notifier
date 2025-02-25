@@ -42,6 +42,10 @@ echo "session optional pam_exec.so type=open_session seteuid /usr/bin/ssh-tg-not
 
 По аналогии с этим скриптом, вы можете сделать уведомления и на другие события. Например, на закрытие сессии, или на неудачную аутентификацию
 
+# Демонстрация работы
+
+![screenshot](./screenshot.png)
+
 # Референсы
 
 * [Бэкдор PAM для сбора пользовательских паролей в учебныз целях](https://youtube.com/watch?v=6tn30O0SjVQ&t=2550)

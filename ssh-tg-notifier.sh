@@ -2,7 +2,7 @@
 
 # Environment variables
 TG_BOT_TOKEN="" # CHANGE ME
-TG_API_ENDPOINT="https://api.telegram.org/bot$KEY/sendMessage"
+TG_API_ENDPOINT="https://api.telegram.org/bot$TG_BOT_TOKEN/sendMessage"
 TG_CHAT_ID="" # CHANGE ME
 
 IPINFO_TOKEN="" # CHANGE ME

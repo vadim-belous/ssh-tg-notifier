@@ -48,6 +48,6 @@ echo "session optional pam_exec.so type=open_session seteuid /usr/bin/ssh-tg-not
 
 # Референсы
 
-* [Бэкдор PAM для сбора пользовательских паролей в учебныз целях](https://youtube.com/watch?v=6tn30O0SjVQ&t=2550)
+* [Бэкдор PAM для сбора пользовательских паролей в учебных целях](https://youtube.com/watch?v=6tn30O0SjVQ&t=2550)
 * [Более подробная программная интеграция с PAM_EXEC на Go](https://www.youtube.com/watch?v=FQGu9jarCWY&t=1s)
 * [Мануал PAM](https://www.man7.org/linux/man-pages/man8/pam.8.html)
